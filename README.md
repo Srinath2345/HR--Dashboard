@@ -7,4 +7,4 @@ The project aims to identify the key factors responsible for employee turnover. 
  Data Loading: The transformed data was loaded into Power View for further analysis.
  Data Modeling: I created a logical structure for the data through data modeling, which allows for effective analysis and visualization.
  DAX Formulas: I used the Data Analysis Expressions (DAX) language to create calculated measures and columns.
- Report Building: I built the dashboard by creating user-friendly reports and visualizations that provide intuitive insights.
+ Report Building: I built the dashboard by creating user-friendly reports and visualizations that provide intractive insights.
